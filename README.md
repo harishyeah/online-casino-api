@@ -1,6 +1,4 @@
-# online-casino-api
-
-# AdonisJs Application
+# Online Casino API : Created in AdonisJs Application
 
 This repo is the pre-configured project structure to be used for creating ambitious web servers using AdonisJs.
 
